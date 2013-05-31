@@ -1,0 +1,11 @@
+ben:
+  first_name: "Ben"
+  last_name: "Zenker"
+  email: "enigmacubed@gmail.com"
+  profile_name: "bzenk"
+
+karl:
+  first_name: "Karl"
+  last_name: "Miller"
+  email: "kmills24@gmail.com"
+  profile_name: "kmills"
